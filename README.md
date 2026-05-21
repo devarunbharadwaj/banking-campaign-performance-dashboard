@@ -50,7 +50,7 @@ The dashboard provides insights into:
 banking-campaign-performance-dashboard/
 │
 ├── dashboard/
-│   └── Finance_project.pbix
+│   └──banking_campaign_dashboard.pbix
 │
 ├── data/
 │   ├── raw/
